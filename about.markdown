@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+This site is a test to learn different uses and functions of the Jekyll platform for the SI 676 course offered at the University of Michigan School of Information.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
